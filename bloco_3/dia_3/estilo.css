@@ -1,0 +1,50 @@
+.conjunto {
+    min-width: 30%;
+    max-width: 60%;
+    margin-left: 30px;;
+}
+
+.super-mario {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    left: 50px;
+}
+
+.goomba {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    top: 570px;
+    left: 50px;
+}
+
+.baloon {
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    left: 380px;
+    top: 200px;
+    z-index: 1;
+}
+
+.bowser{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    left: 600px;
+    top: 100px;
+}
+.word {
+    font-size: 20px;
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    top: 210px;
+    left: 400px;
+    z-index: 2;
+}
+.fala-bowser {
+    overflow: auto;
+}
+
