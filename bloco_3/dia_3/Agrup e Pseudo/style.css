@@ -1,7 +1,17 @@
 div:hover {
     border-style: solid;
     border-radius: 4px;
-    width: 180px;
+    width: 170px;
+}
+
+h3 {
+    color:darkgray;
+    border-radius: 4px;
+    background-color: black;
+    padding: 10px 10px;
+    font-family: monospace;
+    text-align: center;
+    width: 150px;
 }
 
 div:nth-of-type(1){
@@ -24,12 +34,3 @@ div:nth-of-type(5){
     border-color: cyan
 }
 
-h3 {
-    width: 150px;
-    color:darkgray;
-    border-radius: 4px;
-    background-color: black;
-    padding: 10px 10px;
-    font-family: monospace;
-    text-align: center;
-}
