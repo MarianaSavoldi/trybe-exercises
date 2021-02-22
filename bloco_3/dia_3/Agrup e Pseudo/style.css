@@ -12,6 +12,7 @@ h3 {
     font-family: monospace;
     text-align: center;
     width: 150px;
+    margin: 0;
 }
 
 div:nth-of-type(1){
